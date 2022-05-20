@@ -1,0 +1,9 @@
+{
+    "name": "Shose",
+    "image": "images/scart-min.png",
+    "auth": "S-Cart",
+    "email": "support@s-cart.org",
+    "website": "https://S-Cart.Org",
+    "configKey": "shose",
+    "version": "1.0"
+}

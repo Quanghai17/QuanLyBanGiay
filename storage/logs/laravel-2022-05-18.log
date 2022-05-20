@@ -1,0 +1,7 @@
+[2022-05-18 15:14:31] local.ERROR: 2022-05-18 15:14:31:
+#SC003::Message: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ - Line: 70 - File: C:\xampp\htdocs\s-cart-6.7.2\vendor\laravel\framework\src\Illuminate\Database\Connectors\Connector.php
+  
+[2022-05-18 15:58:06] production.ERROR: 2022-05-18 15:58:06:
+#SC003::Message: SQLSTATE[HY000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) - Line: 70 - File: C:\xampp\htdocs\s-cart-6.7.2\vendor\laravel\framework\src\Illuminate\Database\Connectors\Connector.php
+  
